@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
+        <title>KALBI.tn - {% block title %}Welcome!{% endblock %}</title>
+        <!-- CSS  -->
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+        {% block stylesheets %}
+            <link rel="stylesheet" href="{{ asset('materialize/css/materialize.min.css') }}" type="text/css"  media="screen,projection"/>
+        {% endblock %}
+        <style>
+            footer {
+                background-color: rgba(0,0,0,0.7);
+
+            }
+            .user-roal{
+                color: #ffffff;
+                font-size: 16px;
+                font-weight: 400;
+                margin-top: -2%;
+            }
+            .user-roal-2{
+                color: #ffffff;
+                font-size: 12px;
+                margin-top:-15%
+            }
+
+        </style>
+        {#<link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>#}
+        {% block custom_css %}{% endblock custom_css %}
+    </head>
+    <body>
+    {% block body %}{% endblock %}
+    {% block footer %}
+        <!--   footer Section   -->
+        <footer class="">
+            <div class="container" >
+                <div class="row" style="padding-top:2%">
+                    <div class="col l5 hide-on-med-and-down">
+                        <h6 class="white-text">All rights reserved for <a href="#" class="white-text">Kalbi.tn</a> </h6>
+                    </div>
+                    <div class="col s12 m12 l7" style="line-height: 40px;">
+
+                        <div class="col m4 l3 offset-l4 hide-on-small-only">
+                            <span class="white-text" style="font-size: 16px;">Suivez-nous </span>
+                        </div>
+                        <div class="col s3 m2 l1 center ">
+                            <a class="white-text amber text-lighten-3 btn-floating center" href="#!">F</a>
+                        </div>
+                        <div class="col s3 m2 l1 center ">
+                            <a class="white-text amber text-lighten-3 btn-floating center" href="#!">T</a>
+                        </div>
+                        <div class="col s3 m2 l1 center ">
+                            <a class="white-text amber text-lighten-3 btn-floating center" href="#!">G+</a>
+                        </div>
+                        <div class="col s3 m2 l1 center ">
+                            <a class="white-text amber text-lighten-3 btn-floating center" href="#!">I</a>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </footer>
+    {% endblock footer %}
+    {% block javascripts %}
+        <script src="{{ asset('materialize/js/jquery-2.2.4.min.js') }}"></script>
+        <script src="{{ asset('materialize/js/materialize.js') }}"></script>
+        <script>
+            $( document ).ready(function(){
+                $(".button-collapse").sideNav();
+            });
+        </script>
+    {% endblock javascripts %}
+    {% block custom_js %}{% endblock custom_js %}
+    </body>
+</html>

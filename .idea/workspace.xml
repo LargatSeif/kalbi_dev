@@ -1,0 +1,1256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/publicBundle/Controller/homeController.php" line="15" />
+    <bookmark url="uml://PHP/\dataBundle\Entity\etat" />
+    <bookmark url="file://$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Controller/ProfileController.php" line="50" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f250e0c1-0258-498c-9554-fec37c2479b6" name="Default" comment="abc">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes Diagram - kalbi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes diagram - kalbi.uml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/cache/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/logs/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/apple-touch-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/bg1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/menu/QR.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/menu/accouplement.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/menu/adoption.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/menu/dresseur.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/menu/shop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/menu/vets.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/profile_exp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/Raleway/Raleway-Bold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/Raleway/Raleway-ExtraBold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/Raleway/Raleway-ExtraLight.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/Raleway/Raleway-Heavy.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/Raleway/Raleway-Light.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/Raleway/Raleway-Medium.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/Raleway/Raleway-Regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/Raleway/Raleway-SemiBold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/Raleway/Raleway-Thin.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/material-design-icons/.BridgeLabelsAndRatings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/material-design-icons/Material-Design-Icons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/material-design-icons/Material-Design-Icons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/material-design-icons/Material-Design-Icons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/material-design-icons/Material-Design-Icons.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/roboto/Roboto-Bold.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/roboto/Roboto-Bold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/roboto/Roboto-Bold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/roboto/Roboto-Bold.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/roboto/Roboto-Light.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/roboto/Roboto-Light.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/roboto/Roboto-Light.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/roboto/Roboto-Light.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/roboto/Roboto-Medium.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/roboto/Roboto-Medium.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/roboto/Roboto-Medium.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/roboto/Roboto-Medium.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/roboto/Roboto-Regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/roboto/Roboto-Regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/roboto/Roboto-Regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/roboto/Roboto-Regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/roboto/Roboto-Thin.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/roboto/Roboto-Thin.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/roboto/Roboto-Thin.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/roboto/Roboto-Thin.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/fonts/roboto/Roboto-Bold.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/fonts/roboto/Roboto-Bold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/fonts/roboto/Roboto-Bold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/fonts/roboto/Roboto-Bold.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/fonts/roboto/Roboto-Light.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/fonts/roboto/Roboto-Light.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/fonts/roboto/Roboto-Light.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/fonts/roboto/Roboto-Light.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/fonts/roboto/Roboto-Medium.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/fonts/roboto/Roboto-Medium.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/fonts/roboto/Roboto-Medium.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/fonts/roboto/Roboto-Medium.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/fonts/roboto/Roboto-Regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/fonts/roboto/Roboto-Regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/fonts/roboto/Roboto-Regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/fonts/roboto/Roboto-Regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/fonts/roboto/Roboto-Thin.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/fonts/roboto/Roboto-Thin.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/fonts/roboto/Roboto-Thin.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/fonts/roboto/Roboto-Thin.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/frameworkRootSettings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/kalbi.tn.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/symfony2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UPGRADE-2.2.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UPGRADE-2.3.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UPGRADE-2.4.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UPGRADE-2.8.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UPGRADE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/AppCache.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/AppKernel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/views/base.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/views/default/index.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/views/navbar.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/SymfonyRequirements.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/autoload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/check.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/config.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/config_dev.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/config_prod.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/config_test.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/parameters.yml.dist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/routing.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/routing_dev.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/security.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/services.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/console" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/phpunit.xml.dist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/doctrine" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/doctrine-dbal" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/doctrine-dbal.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/doctrine.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/doctrine.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/doctrine.php.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/security-checker" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/security-checker.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/profileController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/seif.gitignor" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataBundle/Entity/chien.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataBundle/Entity/commentaire.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataBundle/Entity/dresseurs.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataBundle/Entity/etat.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataBundle/Entity/jaime.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataBundle/Entity/periode.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataBundle/Entity/question.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataBundle/Entity/race.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataBundle/Entity/veterinaire.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataBundle/Repository/chienRepository.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataBundle/Repository/commentaireRepository.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataBundle/Repository/dresseursRepository.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataBundle/Repository/etatRepository.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataBundle/Repository/jaimeRepository.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataBundle/Repository/periodeRepository.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataBundle/Repository/questionRepository.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataBundle/Repository/raceRepository.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataBundle/Repository/veterinaireRepository.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataBundle/Resources/config/doctrine/chien.orm.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataBundle/Resources/config/doctrine/commentaire.orm.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataBundle/Resources/config/doctrine/dresseurs.orm.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataBundle/Resources/config/doctrine/etat.orm.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataBundle/Resources/config/doctrine/jaime.orm.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataBundle/Resources/config/doctrine/periode.orm.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataBundle/Resources/config/doctrine/question.orm.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataBundle/Resources/config/doctrine/race.orm.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataBundle/Resources/config/doctrine/veterinaire.orm.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataBundle/Resources/config/routing.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataBundle/Resources/config/services.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataBundle/Resources/views/Default/index.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataBundle/dataBundle.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/publicBundle/Controller/accouplementController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/publicBundle/Controller/adoptionController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/publicBundle/Controller/dresseursController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/publicBundle/Controller/homeController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/publicBundle/Controller/membersAreaController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/publicBundle/Controller/qrController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/publicBundle/Controller/shopController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/publicBundle/Controller/veterinaireController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/publicBundle/Resources/config/routing.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/publicBundle/Resources/config/services.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/publicBundle/Resources/views/index/index.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/publicBundle/Resources/views/memberArea/index.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/publicBundle/Resources/views/memberArea/pages/accouplement.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/publicBundle/Resources/views/memberArea/pages/adoption.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/publicBundle/Resources/views/memberArea/pages/dresseurs.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/publicBundle/Resources/views/memberArea/pages/qr.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/publicBundle/Resources/views/memberArea/pages/shop.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/publicBundle/Resources/views/memberArea/pages/veterinaire.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/publicBundle/Resources/views/vets .html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/publicBundle/publicBundle.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/userBundle/Controller/DefaultController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/userBundle/Entity/User.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/userBundle/Form/UserType.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/userBundle/Repository/UserRepository.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/userBundle/Resources/config/doctrine/User.orm.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/userBundle/Resources/config/routing.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/userBundle/Resources/config/services.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/userBundle/Resources/views/Default/index.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/userBundle/Resources/views/profile/index.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/userBundle/Security/Core/User/MyFOSUBUserProvider.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/userBundle/userBundle.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/dataBundle/Controller/DefaultControllerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/publicBundle/Controller/DefaultControllerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/userBundle/Controller/DefaultControllerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Connect/AccountConnectorInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Controller/ConnectController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/DependencyInjection/CompilerPass/RequestCompilerPass.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/DependencyInjection/CompilerPass/SetResourceOwnerServiceNameCompilerPass.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/DependencyInjection/Configuration.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/DependencyInjection/HWIOAuthExtension.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/DependencyInjection/Security/Factory/OAuthFactory.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Form/FOSUBRegistrationFormHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Form/RegistrationFormHandlerInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/HWIOAuthBundle.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/Exception/HttpTransportException.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/RequestDataStorage/SessionStorage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/RequestDataStorageInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/AbstractResourceOwner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/AmazonResourceOwner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/AsanaResourceOwner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/Auth0ResourceOwner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/AzureResourceOwner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/Bitbucket2ResourceOwner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/BitbucketResourceOwner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/BitlyResourceOwner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/BoxResourceOwner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/BufferAppResourceOwner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/CleverResourceOwner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/DailymotionResourceOwner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/DeezerResourceOwner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/DeviantartResourceOwner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/DiscogsResourceOwner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/DisqusResourceOwner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/DropboxResourceOwner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/EveOnlineResourceOwner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/EventbriteResourceOwner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/FacebookResourceOwner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/FiwareResourceOwner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/FlickrResourceOwner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/FoursquareResourceOwner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/GenericOAuth1ResourceOwner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/GenericOAuth2ResourceOwner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/GitHubResourceOwner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/GoogleResourceOwner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/HubicResourceOwner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/InstagramResourceOwner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/ItembaseResourceOwner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/JawboneResourceOwner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/JiraResourceOwner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/LinkedinResourceOwner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/MailRuResourceOwner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/OdnoklassnikiResourceOwner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/Office365ResourceOwner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/PaypalResourceOwner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/QQResourceOwner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/RedditResourceOwner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/RunKeeperResourceOwner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/SalesforceResourceOwner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/SensioConnectResourceOwner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/SinaWeiboResourceOwner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/SlackResourceOwner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/SoundcloudResourceOwner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/SpotifyResourceOwner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/StackExchangeResourceOwner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/StereomoodResourceOwner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/StravaResourceOwner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/ThirtySevenSignalsResourceOwner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/ToshlResourceOwner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/TraktResourceOwner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/TrelloResourceOwner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/TwitchResourceOwner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/TwitterResourceOwner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/VkontakteResourceOwner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/WechatResourceOwner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/WindowsLiveResourceOwner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/WordpressResourceOwner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/WunderlistResourceOwner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/XingResourceOwner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/YahooResourceOwner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/YandexResourceOwner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/YoutubeResourceOwner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwnerInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/Response/AbstractUserResponse.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/Response/PathUserResponse.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/Response/SensioConnectUserResponse.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/Response/UserResponseInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResponseInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/config/http_client.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/config/oauth.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/config/routing/connect.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/config/routing/login.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/config/routing/redirect.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/config/templating.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/config/twig.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/1-setting_up_the_bundle.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/2-configuring_resource_owners.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/3-configuring_the_security_layer.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/4-integrating_fosub.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/bonus/facebook-connect.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/internals/configuring_the_http_client.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/internals/reference_configuration.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/internals/response_object_and_paths.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/37signals.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/amazon.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/asana.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/auth0.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/azure.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/bitbucket.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/bitly.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/box.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/bufferapp.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/clever.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/dailymotion.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/deviantart.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/discogs.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/disqus.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/dropbox.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/eve_online.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/eventbrite.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/facebook.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/fiware.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/flickr.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/foursquare.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/github.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/google.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/hubic.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/instagram.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/itembase.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/jawbone.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/jira.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/linkedin.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/mailru.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/odnoklassniki.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/others.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/paypal.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/qq.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/reddit.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/runkeeper.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/salesforce.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/sensio_connect.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/sina_weibo.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/soundcloud.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/spotify.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/stack_exchange.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/stereomood.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/strava.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/toshl.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/trakt.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/trello.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/twitch.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/twitter.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/vkontakte.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/wechat.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/windows_live.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/wordpress.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/wunderlist.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/xing.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/yahoo.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/yandex.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/youtube.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/meta/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/translations/HWIOAuthBundle.de.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/translations/HWIOAuthBundle.en.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/translations/HWIOAuthBundle.es.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/translations/HWIOAuthBundle.fa.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/translations/HWIOAuthBundle.fr.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/translations/HWIOAuthBundle.hu.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/translations/HWIOAuthBundle.it.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/translations/HWIOAuthBundle.nl.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/translations/HWIOAuthBundle.pl.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/translations/HWIOAuthBundle.ru.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/translations/HWIOAuthBundle.tr.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/translations/HWIOAuthBundle.uk.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/translations/HWIOAuthBundle.zh.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/views/Connect/connect_confirm.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/views/Connect/connect_success.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/views/Connect/login.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/views/Connect/registration.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/views/Connect/registration_success.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/views/layout.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Security/Core/Authentication/Provider/OAuthProvider.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Security/Core/Authentication/Token/OAuthToken.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Security/Core/Exception/AccountNotLinkedException.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Security/Core/Exception/OAuthAwareExceptionInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Security/Core/User/EntityUserProvider.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Security/Core/User/FOSUBUserProvider.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Security/Core/User/OAuthAwareUserProviderInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Security/Core/User/OAuthUser.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Security/Core/User/OAuthUserProvider.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Security/Http/EntryPoint/OAuthEntryPoint.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Security/Http/Firewall/OAuthListener.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Security/Http/ResourceOwnerMap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Security/OAuthUtils.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Templating/Helper/OAuthHelper.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/Controller/AbstractConnectControllerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/Controller/ConnectControllerConnectActionTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/Controller/ConnectControllerConnectServiceActionTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/Controller/ConnectControllerRedirectToServiceActionTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/Controller/ConnectControllerRegistrationActionTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/DependencyInjection/HWIOAuthExtensionTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/Fixtures/CustomOAuthToken.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/Fixtures/CustomUserResponse.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/Fixtures/FOSUser.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/Fixtures/OAuthAwareException.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/Fixtures/User.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/Fixtures/sensioconnect_response.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/Form/FOSUBRegistrationFormHandlerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/AmazonResourceOwnerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/AsanaResourceOwnerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/Auth0ResourceOwnerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/AzureResourceOwner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/BitbucketResourceOwnerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/BitlyResourceOnwerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/BoxResourceOwnerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/BufferAppResourceOwnerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/CleverResourceOwnerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/DailymotionResourceOwnerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/DeezerResourceOwnerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/DeviantartResourceOnwerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/DiscogsResourceOwnerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/DisqusResourceOwnerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/DropboxResourceOwnerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/EveOnlineResourceOwnerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/EventbriteResourceOwnerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/FacebookResourceOwnerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/FlickrResourceOwnerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/FoursquareResourceOwnerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/GenericOAuth1ResourceOwnerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/GenericOAuth2ResourceOwnerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/GitHubResourceOwnerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/GoogleResourceOwnerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/HubicResourceOwnerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/InstagramResourceOnwerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/ItembaseResourceOwnerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/JiraResourceOwnerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/LinkedinResourceOwnerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/MailRuResourceOwnerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/OdnoklassnikiResourceOwnerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/Office365ResourceOwnerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/PaypalResourceOwnerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/QQResourceOwnerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/RedditResourceOwnerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/RunKeeperResourceOwnerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/SalesforceResourceOwnerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/SensioConnectResourceOwnerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/SinaWeiboResourceOwnerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/SlackResourceOwnerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/SoundcloudResourceOwnerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/SpotifyResourceOwnerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/StackExchangeResourceOwnerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/StereomoodResourceOwnerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/StravaResourceOwnerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/ThirtySevenSignalsResourceOwnerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/ToshlResourceOwnerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/TraktResourceOwnerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/TrelloResourceOwnerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/TwitchResourceOwnerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/TwitterResourceOwnerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/VkontakteResourceOwnerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/WechatResourceOwnerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/WindowsLiveResourceOwnerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/WordpressResourceOwnerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/WunderlistResourceOwnerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/XingResourceOwnerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/YahooResourceOwnerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/YandexResourceOwnerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/YoutubeResourceOwnerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/Response/PathUserResponseTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/Security/Core/Authentication/Provider/OAuthProviderTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/Security/Core/Authentication/Token/OAuthTokenTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/Security/Core/User/EntityUserProviderTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/Security/Core/User/FOSUBUserProviderTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/Security/Core/User/OAuthUserProviderTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/Security/Core/User/OAuthUserTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/Security/OAuthUtilsTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/bootstrap.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Twig/Extension/OAuthExtension.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/phpunit.xml.dist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app_dev.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/css/materialize-2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/css/materialize.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/css/materialize.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/material-design-icons/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/material-design-icons/Material-Design-Icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/icons/icon" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/js/ilCasaInit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/js/init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/js/jquery-2.2.4.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/js/jquery-ui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/js/jquery-ui.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/js/materialize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/js/materialize.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/js/platform.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/robots.txt" />
+    </list>
+    <ignored path="kalbi.tn.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="kalbi.tn" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FrameworkCommandLineHistory">
+    <commandsHistory>
+      <command text="s doctrine:generate:entities dataBundle:question" />
+      <command text="s doctrine:generate:entities dataBundle:User" />
+      <command text="s doctrine:generate:entities userBundle:User" />
+      <command text="s doctrine:generate:entities dataBundle:question" />
+      <command text="s doctrine:generate:entities dataBundle:commentaire" />
+      <command text="s doctrine:schema:update --force" />
+      <command text="s doctrine:generate:entities dataBundle:question" />
+      <command text="s doctrine:generate:entities dataBundle:commentaire" />
+      <command text="s doctrine:schema:update --force" />
+      <command text="s doctrine:generate:entities dataBundle:question" />
+      <command text="s doctrine:generate:entities dataBundle:jaime" />
+      <command text="s doctrine:schema:update --force" />
+      <command text="s doctrine:generate:entities userBundle:User" />
+      <command text="s doctrine:generate:entities dataBundle:jaime" />
+      <command text="s doctrine:generate:entities userBundle:User" />
+      <command text="s doctrine:schema:update --force" />
+      <command text="s doctrine:generate:entities dataBundle:chien" />
+      <command text="s doctrine:generate:entities dataBundle:race" />
+      <command text="s doctrine:schema:update --force" />
+      <command text="s doctrine:generate:entities dataBundle:commentaire" />
+      <command text="s doctrine:schema:update --force" />
+      <command text="s cache:clear --env=dev --no-debug " />
+      <command text="s doctrine:generate:entities userBundle:User" />
+      <command text="s doctrine:schema:update --force" />
+      <command text="s doctrine:generate:form userBundle:User" />
+    </commandsHistory>
+  </component>
+  <component name="FrameworkRootSettings" id="Symfony2">
+    <option name="typedPaths">
+      <list>
+        <element elementPath="$PROJECT_DIR$/app" typeId="app_directory" />
+        <element elementPath="$PROJECT_DIR$/vendor" typeId="vendor_directory" />
+        <element elementPath="$PROJECT_DIR$/web" typeId="web_directory" />
+      </list>
+    </option>
+    <option name="myTypedPaths">
+      <list>
+        <element elementPath="$PROJECT_DIR$/app" typeId="app_directory" />
+        <element elementPath="$PROJECT_DIR$/vendor" typeId="vendor_directory" />
+        <element elementPath="$PROJECT_DIR$/web" typeId="web_directory" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/publicBundle/Controller/dresseursController.php" />
+        <option value="$PROJECT_DIR$/src/publicBundle/Resources/config/routing.yml" />
+        <option value="$PROJECT_DIR$/app/config/security.yml" />
+        <option value="$PROJECT_DIR$/src/publicBundle/Resources/views/memberArea/pages/adoption.html.twig" />
+        <option value="$PROJECT_DIR$/src/publicBundle/Resources/views/memberArea/pages/dresseurs.html.twig" />
+        <option value="$PROJECT_DIR$/src/publicBundle/Resources/views/memberArea/pages/qr.html.twig" />
+        <option value="$PROJECT_DIR$/src/publicBundle/Resources/views/memberArea/pages/veterinaire.html.twig" />
+        <option value="$PROJECT_DIR$/src/publicBundle/Resources/views/vets .html" />
+        <option value="$PROJECT_DIR$/src/publicBundle/Resources/views/vets .html.twig" />
+        <option value="$PROJECT_DIR$/src/publicBundle/Controller/membersAreaController.php" />
+        <option value="$PROJECT_DIR$/src/publicBundle/Resources/views/index/index.html.twig" />
+        <option value="$PROJECT_DIR$/app/Resources/views/base.html.twig" />
+        <option value="$PROJECT_DIR$/src/publicBundle/Controller/homeController.php" />
+        <option value="$PROJECT_DIR$/src/dataBundle/Entity/chien.php" />
+        <option value="$PROJECT_DIR$/src/dataBundle/Resources/config/doctrine/periode.orm.yml" />
+        <option value="$PROJECT_DIR$/src/dataBundle/Resources/config/doctrine/etat.orm.yml" />
+        <option value="$PROJECT_DIR$/src/dataBundle/Resources/config/doctrine/question.orm.yml" />
+        <option value="$PROJECT_DIR$/src/dataBundle/Resources/config/doctrine/jaime.orm.yml" />
+        <option value="$PROJECT_DIR$/src/dataBundle/Resources/config/routing.yml" />
+        <option value="$PROJECT_DIR$/src/publicBundle/Resources/views/memberArea/pages/accouplement.html.twig" />
+        <option value="$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/config/doctrine-mapping/User.orm.xml" />
+        <option value="$PROJECT_DIR$/src/dataBundle/Resources/config/doctrine/commentaire.orm.yml" />
+        <option value="$PROJECT_DIR$/src/dataBundle/Resources/config/doctrine/race.orm.yml" />
+        <option value="$PROJECT_DIR$/src/dataBundle/Resources/config/doctrine/chien.orm.yml" />
+        <option value="$PROJECT_DIR$/src/userBundle/Resources/views/profile/index.html.twig" />
+        <option value="$PROJECT_DIR$/src/userBundle/Controller/ProfileController.php" />
+        <option value="$PROJECT_DIR$/src/userBundle/Resources/config/routing.yml" />
+        <option value="$PROJECT_DIR$/src/userBundle/Controller/profileController.php" />
+        <option value="$PROJECT_DIR$/profileController.php" />
+        <option value="$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/FOSUserBundle.fr.yml" />
+        <option value="$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/FOSUserBundle.en.yml" />
+        <option value="$PROJECT_DIR$/app/config/config.yml" />
+        <option value="$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/config/routing/all.xml" />
+        <option value="$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/config/routing/profile.xml" />
+        <option value="$PROJECT_DIR$/web/app_dev.php" />
+        <option value="$PROJECT_DIR$/app/Resources/views/navbar.html.twig" />
+        <option value="$PROJECT_DIR$/src/userBundle/userBundle.php" />
+        <option value="$PROJECT_DIR$/src/userBundle/Controller/DefaultController.php" />
+        <option value="$PROJECT_DIR$/web/materialize/css/materialize.css" />
+        <option value="$PROJECT_DIR$/web/materialize/css/materialize.min.css" />
+        <option value="$PROJECT_DIR$/src/userBundle/Form/UserType.php" />
+        <option value="$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Form/Type/RegistrationFormType.php" />
+        <option value="$PROJECT_DIR$/src/userBundle/Resources/config/doctrine/User.orm.yml" />
+        <option value="$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Controller/ProfileController.php" />
+        <option value="$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/views/Profile/show_content.html.twig" />
+        <option value="$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/views/Profile/edit.html.twig" />
+        <option value="$PROJECT_DIR$/src/publicBundle/Resources/views/memberArea/index.html.twig" />
+        <option value="$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/views/Profile/show.html.twig" />
+        <option value="$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Form/Type/ProfileFormType.php" />
+        <option value="$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/views/Profile/edit_content.html.twig" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="754" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="kalbi.tn">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="165" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="165" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="166" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="840" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="166" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="164" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="166" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="840" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\kalbi.tn\web\images\menu" />
+      <recent name="C:\wamp64\www\kalbi.tn\web\images" />
+      <recent name="C:\wamp64\www\kalbi.tn\src\publicBundle\Resources\views\memberArea\pages" />
+      <recent name="C:\wamp64\www\kalbi.tn\src\publicBundle\Controller" />
+      <recent name="C:\wamp64\www\kalbi.tn\web\materialize\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\kalbi.tn" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f250e0c1-0258-498c-9554-fec37c2479b6" name="Default" comment="" />
+      <created>1475920178862</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1475920178862</updated>
+      <workItem from="1475920182624" duration="28706000" />
+      <workItem from="1476105413455" duration="35246000" />
+      <workItem from="1476311882934" duration="7197000" />
+      <workItem from="1476377455863" duration="4827000" />
+      <workItem from="1476434192353" duration="366000" />
+      <workItem from="1476461135010" duration="55262000" />
+      <workItem from="1476828556843" duration="509000" />
+      <workItem from="1476829102161" duration="457000" />
+      <workItem from="1476829599324" duration="582000" />
+    </task>
+    <task id="LOCAL-00001" summary="abc">
+      <created>1476828679648</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1476828679648</updated>
+    </task>
+    <task id="LOCAL-00002" summary="abc">
+      <created>1476828847287</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1476828847287</updated>
+    </task>
+    <task id="LOCAL-00003" summary="abc">
+      <created>1476829185751</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1476829185751</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="133152000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25402635" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917318" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.62870514" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32761312" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Framework" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.65126675" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32786885" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917318" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6521061" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32761312" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1954612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917318" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Framework" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="abc" />
+    <MESSAGE value="first commit with 40% achieved of the work  !&#10;in progress" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit with 40% achieved of the work  !&#10;in progress" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/dataBundle/Resources/config/doctrine/race.orm.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="557">
+          <caret line="23" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dataBundle/Resources/config/doctrine/chien.orm.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/config/routing/change_password.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/profileController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/userBundle/Resources/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/FOSUserBundle.en.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/translations/FOSUserBundle.fr.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/config/routing/security.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-113">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/config/routing/group.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/config/profile.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/config/routing/all.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/config/routing/profile.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="55" selection-start-line="6" selection-start-column="55" selection-end-line="6" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/userBundle/Resources/views/profile/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="70" column="20" selection-start-line="58" selection-start-column="8" selection-end-line="70" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/views/ChangePassword/change_password_content.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/views/ChangePassword/change_password.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app_dev.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Controller/ChangePasswordController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="899">
+          <caret line="42" column="58" selection-start-line="42" selection-start-column="58" selection-end-line="42" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/views/Registration/email.txt.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Controller/RegistrationController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="48" column="59" selection-start-line="48" selection-start-column="59" selection-end-line="48" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/views/Registration/register_content.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="70" selection-start-line="2" selection-start-column="70" selection-end-line="2" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/views/Registration/register.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/views/Security/login_content.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/views/Security/login.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/common.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="126" column="18" selection-start-line="126" selection-start-column="18" selection-end-line="126" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/navbar.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="66" column="67" selection-start-line="66" selection-start-column="67" selection-end-line="66" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/publicBundle/Resources/views/memberArea/pages/accouplement.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="140" column="68" selection-start-line="140" selection-start-column="29" selection-end-line="140" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/userBundle/userBundle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/userBundle/Controller/DefaultController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/materialize/css/materialize.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8004" column="16" selection-start-line="8004" selection-start-column="16" selection-end-line="8004" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/materialize/css/materialize.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="5" column="59318" selection-start-line="5" selection-start-column="59318" selection-end-line="5" selection-end-column="59318" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/publicBundle/Resources/views/index/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1932">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Form/Type/RegistrationFormType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="50" column="14" selection-start-line="50" selection-start-column="14" selection-end-line="73" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Model/UserManagerInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2418">
+          <caret line="26" column="10" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/views/layout.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="26" column="0" selection-start-line="6" selection-start-column="8" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/userBundle/Form/UserType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="40" column="24" selection-start-line="18" selection-start-column="12" selection-end-line="40" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/views/Resetting/request_content.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Form/Factory/FormFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-47">
+          <caret line="45" column="87" selection-start-line="45" selection-start-column="87" selection-end-line="45" selection-end-column="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Form/Factory/FactoryInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Validator/Initializer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-671">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/userBundle/Resources/config/doctrine/User.orm.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="50" column="22" selection-start-line="50" selection-start-column="22" selection-end-line="50" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Controller/ProfileController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="784">
+          <caret line="98" column="29" selection-start-line="98" selection-start-column="29" selection-end-line="98" selection-end-column="29" />
+          <folding>
+            <element signature="e#1089#1121#0#PHP" expanded="false" />
+            <element signature="e#1566#1667#0#PHP" expanded="false" />
+            <element signature="e#3291#3329#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/views/Profile/show_content.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="40" column="27" selection-start-line="40" selection-start-column="27" selection-end-line="40" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/views/Profile/edit.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="228" column="45" selection-start-line="228" selection-start-column="45" selection-end-line="228" selection-end-column="45" />
+          <folding>
+            <element signature="e#107#123#0#Twig" expanded="false" />
+            <element signature="e#208#3478#0#Twig" expanded="false" />
+            <element signature="e#3512#3530#0#Twig" expanded="false" />
+            <element signature="e#3639#8004#0#Twig" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/publicBundle/Resources/views/memberArea/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="43" column="31" selection-start-line="43" selection-start-column="31" selection-end-line="43" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Form/Type/ProfileFormType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="117" column="15" selection-start-line="117" selection-start-column="15" selection-end-line="117" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seif.gitignor">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="13" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/views/Profile/edit_content.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Resources/views/Profile/show.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="255" column="71" selection-start-line="255" selection-start-column="71" selection-end-line="255" selection-end-column="71" />
+          <folding>
+            <marker date="1476619654117" expanded="false" signature="9433:9465" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

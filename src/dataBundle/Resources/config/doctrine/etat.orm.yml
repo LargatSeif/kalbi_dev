@@ -1,0 +1,26 @@
+dataBundle\Entity\etat:
+    type: entity
+    table: null
+    repositoryClass: dataBundle\Repository\etatRepository
+    id:
+        id:
+            type: integer
+            id: true
+            generator:
+                strategy: AUTO
+    fields:
+        vente:
+            type: string
+            length: 1
+        adoption:
+            type: string
+            length: 255
+    oneToMany:
+        chien:
+            targetEntity: dataBundle\Entity\chien
+            mappedBy: chien
+    manyToOne:
+        periode:
+            targetEntity: dataBundle\Entity\periode
+            inversedBy: chaleur
+    lifecycleCallbacks: {  }

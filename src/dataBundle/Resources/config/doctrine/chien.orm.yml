@@ -1,0 +1,35 @@
+dataBundle\Entity\chien:
+    type: entity
+    table: chiens
+    repositoryClass: dataBundle\Repository\chienRepository
+    id:
+        id:
+            type: integer
+            id: true
+            generator:
+                strategy: AUTO
+    fields:
+        nom:
+            type: string
+            length: 255
+        sexe:
+            type: string
+            length: '4'
+        age:
+            type: string
+            length: 255
+        taille:
+            type: string
+            length: 255
+
+    manyToOne:
+        maitre:
+            targetEntity: userBundle\ENtity\User
+            inversedBy: chien
+        etat:
+            targetEntity: dataBundle\Entity\etat
+            inversedBy: chien
+        race:
+            targetEntity: dataBundle\Entity\race
+            inversedBy: chien
+    lifecycleCallbacks: {  }

@@ -1,0 +1,26 @@
+public_homepage:
+    path:     /
+    defaults: { _controller: publicBundle:home:index }
+
+membersArea:
+    path: /espace_membres
+    defaults: { _controller: publicBundle:membersArea:index }
+######## pages and sections of the plateforme
+accouplement:
+    path: /annonces/accouplement
+    defaults: { _controller: publicBundle:accouplement:index}
+adoption:
+    path: /annonces/adoption
+    defaults: { _controller: publicBundle:adoption:index }
+dresseur:
+    path: /annonces/dresseurs
+    defaults: { _controller: publicBundle:dresseurs:index }
+qr:
+    path: /QuestionReponse
+    defaults: { _controller: publicBundle:qr:index}
+veterinaire:
+    path: /annonces/veterinaire
+    defaults: { _controller: publicBundle:veterinaire:index}
+shop:
+    path: /boutique
+    defaults: { _controller: publicBundle:shop:index}
