@@ -6,13 +6,8 @@
     <bookmark url="file://$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/Controller/ProfileController.php" line="50" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f250e0c1-0258-498c-9554-fec37c2479b6" name="Default" comment="abc">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes Diagram - kalbi.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes diagram - kalbi.uml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/profileController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/seif.gitignor" />
+    <list default="true" id="f250e0c1-0258-498c-9554-fec37c2479b6" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle" afterPath="$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="kalbi.tn.iws" />
@@ -315,7 +310,7 @@
       <workItem from="1476461135010" duration="55262000" />
       <workItem from="1476828556843" duration="509000" />
       <workItem from="1476829102161" duration="457000" />
-      <workItem from="1476829599324" duration="1365000" />
+      <workItem from="1476829599324" duration="1373000" />
     </task>
     <task id="LOCAL-00001" summary="abc">
       <created>1476828679648</created>
@@ -345,11 +340,18 @@
       <option name="project" value="LOCAL" />
       <updated>1476830189269</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="abc">
+      <created>1476830995548</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1476830995548</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="133935000" />
+    <option name="totallyTimeSpent" value="133943000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -409,9 +411,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="abc" />
     <MESSAGE value="first commit with 40% achieved of the work  !&#10;in progress" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit with 40% achieved of the work  !&#10;in progress" />
+    <MESSAGE value="abc" />
+    <option name="LAST_COMMIT_MESSAGE" value="abc" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
