@@ -6,6 +6,8 @@
 !app/cache/.gitkeep
 !app/logs/.gitkeep
 /app/phpunit.xml
+/build/
+!vendor/friendsofsymfony/*
 /vendor/
-!vendor/friendsofsymfony/
-!vendor/hwi/
+/bin/
+/composer.phar

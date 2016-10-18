@@ -9,491 +9,11 @@
     <list default="true" id="f250e0c1-0258-498c-9554-fec37c2479b6" name="Default" comment="abc">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes Diagram - kalbi.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Classes diagram - kalbi.uml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/cache/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/logs/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/apple-touch-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/bg1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/menu/QR.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/menu/accouplement.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/menu/adoption.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/menu/dresseur.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/menu/shop.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/menu/vets.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/images/profile_exp.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/Raleway/Raleway-Bold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/Raleway/Raleway-ExtraBold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/Raleway/Raleway-ExtraLight.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/Raleway/Raleway-Heavy.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/Raleway/Raleway-Light.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/Raleway/Raleway-Medium.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/Raleway/Raleway-Regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/Raleway/Raleway-SemiBold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/Raleway/Raleway-Thin.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/material-design-icons/.BridgeLabelsAndRatings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/material-design-icons/Material-Design-Icons.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/material-design-icons/Material-Design-Icons.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/material-design-icons/Material-Design-Icons.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/material-design-icons/Material-Design-Icons.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/roboto/Roboto-Bold.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/roboto/Roboto-Bold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/roboto/Roboto-Bold.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/roboto/Roboto-Bold.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/roboto/Roboto-Light.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/roboto/Roboto-Light.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/roboto/Roboto-Light.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/roboto/Roboto-Light.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/roboto/Roboto-Medium.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/roboto/Roboto-Medium.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/roboto/Roboto-Medium.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/roboto/Roboto-Medium.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/roboto/Roboto-Regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/roboto/Roboto-Regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/roboto/Roboto-Regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/roboto/Roboto-Regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/roboto/Roboto-Thin.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/roboto/Roboto-Thin.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/roboto/Roboto-Thin.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/roboto/Roboto-Thin.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/fonts/roboto/Roboto-Bold.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/fonts/roboto/Roboto-Bold.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/fonts/roboto/Roboto-Bold.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/fonts/roboto/Roboto-Bold.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/fonts/roboto/Roboto-Light.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/fonts/roboto/Roboto-Light.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/fonts/roboto/Roboto-Light.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/fonts/roboto/Roboto-Light.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/fonts/roboto/Roboto-Medium.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/fonts/roboto/Roboto-Medium.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/fonts/roboto/Roboto-Medium.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/fonts/roboto/Roboto-Medium.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/fonts/roboto/Roboto-Regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/fonts/roboto/Roboto-Regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/fonts/roboto/Roboto-Regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/fonts/roboto/Roboto-Regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/fonts/roboto/Roboto-Thin.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/fonts/roboto/Roboto-Thin.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/fonts/roboto/Roboto-Thin.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/fonts/roboto/Roboto-Thin.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/frameworkRootSettings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/kalbi.tn.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/symfony2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UPGRADE-2.2.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UPGRADE-2.3.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UPGRADE-2.4.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UPGRADE-2.8.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UPGRADE.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/AppCache.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/AppKernel.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/views/base.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/views/default/index.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/views/navbar.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/SymfonyRequirements.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/autoload.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/check.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/config.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/config_dev.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/config_prod.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/config_test.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/parameters.yml.dist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/routing.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/routing_dev.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/security.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/services.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/console" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/phpunit.xml.dist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/doctrine" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/doctrine-dbal" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/doctrine-dbal.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/doctrine.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/doctrine.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/doctrine.php.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/security-checker" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/security-checker.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.lock" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/profileController.php" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/seif.gitignor" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataBundle/Entity/chien.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataBundle/Entity/commentaire.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataBundle/Entity/dresseurs.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataBundle/Entity/etat.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataBundle/Entity/jaime.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataBundle/Entity/periode.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataBundle/Entity/question.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataBundle/Entity/race.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataBundle/Entity/veterinaire.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataBundle/Repository/chienRepository.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataBundle/Repository/commentaireRepository.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataBundle/Repository/dresseursRepository.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataBundle/Repository/etatRepository.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataBundle/Repository/jaimeRepository.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataBundle/Repository/periodeRepository.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataBundle/Repository/questionRepository.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataBundle/Repository/raceRepository.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataBundle/Repository/veterinaireRepository.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataBundle/Resources/config/doctrine/chien.orm.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataBundle/Resources/config/doctrine/commentaire.orm.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataBundle/Resources/config/doctrine/dresseurs.orm.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataBundle/Resources/config/doctrine/etat.orm.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataBundle/Resources/config/doctrine/jaime.orm.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataBundle/Resources/config/doctrine/periode.orm.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataBundle/Resources/config/doctrine/question.orm.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataBundle/Resources/config/doctrine/race.orm.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataBundle/Resources/config/doctrine/veterinaire.orm.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataBundle/Resources/config/routing.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataBundle/Resources/config/services.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataBundle/Resources/views/Default/index.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dataBundle/dataBundle.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/publicBundle/Controller/accouplementController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/publicBundle/Controller/adoptionController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/publicBundle/Controller/dresseursController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/publicBundle/Controller/homeController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/publicBundle/Controller/membersAreaController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/publicBundle/Controller/qrController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/publicBundle/Controller/shopController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/publicBundle/Controller/veterinaireController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/publicBundle/Resources/config/routing.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/publicBundle/Resources/config/services.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/publicBundle/Resources/views/index/index.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/publicBundle/Resources/views/memberArea/index.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/publicBundle/Resources/views/memberArea/pages/accouplement.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/publicBundle/Resources/views/memberArea/pages/adoption.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/publicBundle/Resources/views/memberArea/pages/dresseurs.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/publicBundle/Resources/views/memberArea/pages/qr.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/publicBundle/Resources/views/memberArea/pages/shop.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/publicBundle/Resources/views/memberArea/pages/veterinaire.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/publicBundle/Resources/views/vets .html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/publicBundle/publicBundle.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/userBundle/Controller/DefaultController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/userBundle/Entity/User.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/userBundle/Form/UserType.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/userBundle/Repository/UserRepository.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/userBundle/Resources/config/doctrine/User.orm.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/userBundle/Resources/config/routing.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/userBundle/Resources/config/services.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/userBundle/Resources/views/Default/index.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/userBundle/Resources/views/profile/index.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/userBundle/Security/Core/User/MyFOSUBUserProvider.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/userBundle/userBundle.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/dataBundle/Controller/DefaultControllerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/publicBundle/Controller/DefaultControllerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tests/userBundle/Controller/DefaultControllerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Connect/AccountConnectorInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Controller/ConnectController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/DependencyInjection/CompilerPass/RequestCompilerPass.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/DependencyInjection/CompilerPass/SetResourceOwnerServiceNameCompilerPass.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/DependencyInjection/Configuration.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/DependencyInjection/HWIOAuthExtension.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/DependencyInjection/Security/Factory/OAuthFactory.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Form/FOSUBRegistrationFormHandler.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Form/RegistrationFormHandlerInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/HWIOAuthBundle.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/Exception/HttpTransportException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/RequestDataStorage/SessionStorage.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/RequestDataStorageInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/AbstractResourceOwner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/AmazonResourceOwner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/AsanaResourceOwner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/Auth0ResourceOwner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/AzureResourceOwner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/Bitbucket2ResourceOwner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/BitbucketResourceOwner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/BitlyResourceOwner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/BoxResourceOwner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/BufferAppResourceOwner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/CleverResourceOwner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/DailymotionResourceOwner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/DeezerResourceOwner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/DeviantartResourceOwner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/DiscogsResourceOwner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/DisqusResourceOwner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/DropboxResourceOwner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/EveOnlineResourceOwner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/EventbriteResourceOwner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/FacebookResourceOwner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/FiwareResourceOwner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/FlickrResourceOwner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/FoursquareResourceOwner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/GenericOAuth1ResourceOwner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/GenericOAuth2ResourceOwner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/GitHubResourceOwner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/GoogleResourceOwner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/HubicResourceOwner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/InstagramResourceOwner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/ItembaseResourceOwner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/JawboneResourceOwner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/JiraResourceOwner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/LinkedinResourceOwner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/MailRuResourceOwner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/OdnoklassnikiResourceOwner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/Office365ResourceOwner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/PaypalResourceOwner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/QQResourceOwner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/RedditResourceOwner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/RunKeeperResourceOwner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/SalesforceResourceOwner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/SensioConnectResourceOwner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/SinaWeiboResourceOwner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/SlackResourceOwner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/SoundcloudResourceOwner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/SpotifyResourceOwner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/StackExchangeResourceOwner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/StereomoodResourceOwner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/StravaResourceOwner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/ThirtySevenSignalsResourceOwner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/ToshlResourceOwner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/TraktResourceOwner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/TrelloResourceOwner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/TwitchResourceOwner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/TwitterResourceOwner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/VkontakteResourceOwner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/WechatResourceOwner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/WindowsLiveResourceOwner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/WordpressResourceOwner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/WunderlistResourceOwner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/XingResourceOwner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/YahooResourceOwner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/YandexResourceOwner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwner/YoutubeResourceOwner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResourceOwnerInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/Response/AbstractUserResponse.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/Response/PathUserResponse.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/Response/SensioConnectUserResponse.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/Response/UserResponseInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/OAuth/ResponseInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/config/http_client.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/config/oauth.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/config/routing/connect.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/config/routing/login.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/config/routing/redirect.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/config/templating.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/config/twig.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/1-setting_up_the_bundle.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/2-configuring_resource_owners.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/3-configuring_the_security_layer.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/4-integrating_fosub.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/bonus/facebook-connect.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/internals/configuring_the_http_client.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/internals/reference_configuration.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/internals/response_object_and_paths.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/37signals.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/amazon.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/asana.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/auth0.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/azure.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/bitbucket.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/bitly.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/box.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/bufferapp.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/clever.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/dailymotion.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/deviantart.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/discogs.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/disqus.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/dropbox.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/eve_online.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/eventbrite.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/facebook.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/fiware.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/flickr.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/foursquare.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/github.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/google.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/hubic.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/instagram.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/itembase.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/jawbone.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/jira.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/linkedin.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/mailru.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/odnoklassniki.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/others.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/paypal.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/qq.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/reddit.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/runkeeper.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/salesforce.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/sensio_connect.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/sina_weibo.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/soundcloud.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/spotify.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/stack_exchange.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/stereomood.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/strava.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/toshl.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/trakt.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/trello.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/twitch.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/twitter.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/vkontakte.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/wechat.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/windows_live.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/wordpress.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/wunderlist.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/xing.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/yahoo.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/yandex.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/doc/resource_owners/youtube.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/meta/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/translations/HWIOAuthBundle.de.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/translations/HWIOAuthBundle.en.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/translations/HWIOAuthBundle.es.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/translations/HWIOAuthBundle.fa.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/translations/HWIOAuthBundle.fr.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/translations/HWIOAuthBundle.hu.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/translations/HWIOAuthBundle.it.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/translations/HWIOAuthBundle.nl.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/translations/HWIOAuthBundle.pl.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/translations/HWIOAuthBundle.ru.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/translations/HWIOAuthBundle.tr.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/translations/HWIOAuthBundle.uk.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/translations/HWIOAuthBundle.zh.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/views/Connect/connect_confirm.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/views/Connect/connect_success.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/views/Connect/login.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/views/Connect/registration.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/views/Connect/registration_success.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Resources/views/layout.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Security/Core/Authentication/Provider/OAuthProvider.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Security/Core/Authentication/Token/OAuthToken.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Security/Core/Exception/AccountNotLinkedException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Security/Core/Exception/OAuthAwareExceptionInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Security/Core/User/EntityUserProvider.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Security/Core/User/FOSUBUserProvider.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Security/Core/User/OAuthAwareUserProviderInterface.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Security/Core/User/OAuthUser.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Security/Core/User/OAuthUserProvider.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Security/Http/EntryPoint/OAuthEntryPoint.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Security/Http/Firewall/OAuthListener.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Security/Http/ResourceOwnerMap.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Security/OAuthUtils.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Templating/Helper/OAuthHelper.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/Controller/AbstractConnectControllerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/Controller/ConnectControllerConnectActionTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/Controller/ConnectControllerConnectServiceActionTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/Controller/ConnectControllerRedirectToServiceActionTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/Controller/ConnectControllerRegistrationActionTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/DependencyInjection/HWIOAuthExtensionTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/Fixtures/CustomOAuthToken.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/Fixtures/CustomUserResponse.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/Fixtures/FOSUser.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/Fixtures/OAuthAwareException.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/Fixtures/User.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/Fixtures/sensioconnect_response.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/Form/FOSUBRegistrationFormHandlerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/AmazonResourceOwnerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/AsanaResourceOwnerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/Auth0ResourceOwnerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/AzureResourceOwner.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/BitbucketResourceOwnerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/BitlyResourceOnwerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/BoxResourceOwnerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/BufferAppResourceOwnerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/CleverResourceOwnerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/DailymotionResourceOwnerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/DeezerResourceOwnerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/DeviantartResourceOnwerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/DiscogsResourceOwnerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/DisqusResourceOwnerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/DropboxResourceOwnerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/EveOnlineResourceOwnerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/EventbriteResourceOwnerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/FacebookResourceOwnerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/FlickrResourceOwnerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/FoursquareResourceOwnerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/GenericOAuth1ResourceOwnerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/GenericOAuth2ResourceOwnerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/GitHubResourceOwnerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/GoogleResourceOwnerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/HubicResourceOwnerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/InstagramResourceOnwerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/ItembaseResourceOwnerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/JiraResourceOwnerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/LinkedinResourceOwnerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/MailRuResourceOwnerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/OdnoklassnikiResourceOwnerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/Office365ResourceOwnerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/PaypalResourceOwnerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/QQResourceOwnerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/RedditResourceOwnerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/RunKeeperResourceOwnerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/SalesforceResourceOwnerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/SensioConnectResourceOwnerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/SinaWeiboResourceOwnerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/SlackResourceOwnerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/SoundcloudResourceOwnerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/SpotifyResourceOwnerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/StackExchangeResourceOwnerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/StereomoodResourceOwnerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/StravaResourceOwnerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/ThirtySevenSignalsResourceOwnerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/ToshlResourceOwnerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/TraktResourceOwnerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/TrelloResourceOwnerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/TwitchResourceOwnerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/TwitterResourceOwnerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/VkontakteResourceOwnerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/WechatResourceOwnerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/WindowsLiveResourceOwnerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/WordpressResourceOwnerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/WunderlistResourceOwnerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/XingResourceOwnerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/YahooResourceOwnerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/YandexResourceOwnerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/ResourceOwner/YoutubeResourceOwnerTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/OAuth/Response/PathUserResponseTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/Security/Core/Authentication/Provider/OAuthProviderTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/Security/Core/Authentication/Token/OAuthTokenTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/Security/Core/User/EntityUserProviderTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/Security/Core/User/FOSUBUserProviderTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/Security/Core/User/OAuthUserProviderTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/Security/Core/User/OAuthUserTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/Security/OAuthUtilsTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Tests/bootstrap.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/Twig/Extension/OAuthExtension.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/hwi/oauth-bundle/phpunit.xml.dist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app_dev.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/css/materialize-2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/css/materialize.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/css/materialize.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/material-design-icons/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/font/material-design-icons/Material-Design-Icons.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/icons/icon" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/js/ilCasaInit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/js/init.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/js/jquery-2.2.4.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/js/jquery-ui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/js/jquery-ui.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/js/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/js/materialize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/js/materialize.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/materialize/js/platform.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/robots.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle" afterPath="$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="kalbi.tn.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -685,6 +205,20 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="kalbi.tn">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="vendor">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="ProjectPane">
@@ -781,7 +315,7 @@
       <workItem from="1476461135010" duration="55262000" />
       <workItem from="1476828556843" duration="509000" />
       <workItem from="1476829102161" duration="457000" />
-      <workItem from="1476829599324" duration="582000" />
+      <workItem from="1476829599324" duration="1365000" />
     </task>
     <task id="LOCAL-00001" summary="abc">
       <created>1476828679648</created>
@@ -804,17 +338,24 @@
       <option name="project" value="LOCAL" />
       <updated>1476829185751</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="first commit with 40% achieved of the work  !&#10;in progress">
+      <created>1476830189269</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1476830189269</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="133152000" />
+    <option name="totallyTimeSpent" value="133935000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25402635" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25402635" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917318" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />

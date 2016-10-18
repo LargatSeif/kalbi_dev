@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>PHP</ID>
+  <OriginalElement>\dataBundle\Entity\etat</OriginalElement>
+  <nodes>
+    <node x="14.317662581752586" y="-102.18470090007159">\userBundle\Entity\User</node>
+    <node x="294.0697388859312" y="574.111691521418">\dataBundle\Entity\etat</node>
+    <node x="430.6163259609377" y="276.20901827978827">\dataBundle\Entity\jaime</node>
+    <node x="633.6163259609377" y="276.20901827978827">\dataBundle\Entity\commentaire</node>
+    <node x="984.706869446102" y="-47.67747970545963">\dataBundle\Entity\veterinaire</node>
+    <node x="34.76899920256756" y="275.4236562242471">\dataBundle\Entity\chien</node>
+    <node x="983.4440295669478" y="261.1533360045102">\dataBundle\Entity\dresseurs</node>
+    <node x="729.1293028620537" y="620.2245905611273">\dataBundle\Entity\periode</node>
+    <node x="530.6849088833358" y="-11.990047383331387">\dataBundle\Entity\question</node>
+    <node x="2.7668580138833647" y="569.3351537586358">\dataBundle\Entity\race</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="0.7095764272559852" x="589.4056579288866" y="278.92239813132625" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+  </Categories>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
