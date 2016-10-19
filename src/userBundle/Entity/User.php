@@ -387,4 +387,19 @@ class User extends BaseUser
     {
         return $this->bio;
     }
+
+    private $photo;
+
+
+    public function setPhoto( \dataBundle\Entity\photoProfile $photo = null)
+    {
+        $this->photo = $photo;
+
+        return $this;
+    }
+    
+    public function getPhoto()
+    {
+        return $this->photo;
+    }
 }

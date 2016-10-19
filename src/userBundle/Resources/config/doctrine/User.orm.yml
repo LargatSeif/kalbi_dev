@@ -59,3 +59,10 @@ userBundle\Entity\User:
         jaime:
             targetEntity: dataBundle\Entity\jaime
             mappedBy: user
+    oneToOne:
+        photo:
+            targetEntity: dataBundle\Entity\photoProfile
+            joinColumn:
+                name: image
+                referencedColumnName: id
+            cascade: ["persist"]
