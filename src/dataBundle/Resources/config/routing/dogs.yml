@@ -1,0 +1,29 @@
+dog_show:
+    path:     /{userID}.{dogName}.{dogID}
+    defaults: { _controller: "dataBundle:dogs:show" }
+
+dog_edit:
+    path:     /{dogID}/modifier
+    defaults: { _controller: "dataBundle:dogs:edit" }
+dog_update:
+    path:     /{dogID}/mise_a_jour
+    defaults: { _controller: "dataBundle:dogs:update" }
+    methods:  [POST, PUT]
+
+test_new:
+    path:     /new
+    defaults: { _controller: "sampleBundle:test:new" }
+
+test_create:
+    path:     /create
+    defaults: { _controller: "sampleBundle:test:create" }
+    methods:  POST
+
+
+
+
+
+test_delete:
+    path:     /{id}/delete
+    defaults: { _controller: "sampleBundle:test:delete" }
+    methods:  [POST, DELETE]
