@@ -9,11 +9,11 @@ use Symfony\Component\Validator\Constraints as Assert;
  */
 class photoProfile
 {
-    public $id;
+    protected $id;
     
-    public $name;
+    protected $name;
     
-    public $path;
+    protected $path;
     /**
      * @Assert\File(maxSize="6000000")
      */

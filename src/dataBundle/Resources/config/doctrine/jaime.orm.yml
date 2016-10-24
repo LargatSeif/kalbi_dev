@@ -17,5 +17,5 @@ dataBundle\Entity\jaime:
             inversedBy: jaime
         user:
             targetEntity: userBundle\Entity\User
-            inversedBy:
+            inversedBy: jaime
     lifecycleCallbacks: {  }

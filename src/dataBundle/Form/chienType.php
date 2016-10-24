@@ -2,6 +2,7 @@
 
 namespace dataBundle\Form;
 
+use Symfony\Bridge\Doctrine\Form\Type\EntityType;
 use Symfony\Component\Form\AbstractType;
 use Symfony\Component\Form\Extension\Core\Type\ChoiceType;
 use Symfony\Component\Form\FormBuilderInterface;
@@ -14,6 +15,7 @@ class chienType extends AbstractType
      */
     public function buildForm(FormBuilderInterface $builder, array $options)
     {
+        
         $builder
             ->add('nom')
             ->add(
@@ -29,10 +31,25 @@ class chienType extends AbstractType
                     'expanded'=>true,
                 ]
             )
-            ->add('age')
+            ->add('age','date')
             ->add('taille')
-            ->add('etat','dataBundle\Form\etatType')
-            ->add('race','dataBundle\Form\raceType')        ;
+            ->add(
+                'etat',
+                'dataBundle\Form\etatType',
+                [
+                    'label'=>false,
+                ]
+                )
+            ->add(
+                'race'
+                , EntityType::class,
+                [
+                    'class'=>'dataBundle\Entity\race',
+                    'label'=>'libéllé',
+                    'choice_label'=>'libelle'
+                ]
+            )        
+        ;
     }
     
     /**

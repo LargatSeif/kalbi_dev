@@ -18,7 +18,7 @@ dataBundle\Entity\etat:
     oneToMany:
         chien:
             targetEntity: dataBundle\Entity\chien
-            mappedBy: chien
+            mappedBy: etat
     manyToOne:
         periode:
             targetEntity: dataBundle\Entity\periode

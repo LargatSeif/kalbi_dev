@@ -19,6 +19,6 @@ dataBundle\Entity\commentaire:
             inversedBy: comments
         user:
             targetEntity: userBundle\Entity\User
-            inversedBy: commentaires
+            inversedBy: comments
 
     lifecycleCallbacks: {  }

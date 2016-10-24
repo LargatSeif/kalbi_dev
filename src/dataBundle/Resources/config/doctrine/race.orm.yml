@@ -20,6 +20,6 @@ dataBundle\Entity\race:
             length: 255
     oneToMany:
         chien:
-            targetEntity: dataBundle\Entity\race
+            targetEntity: dataBundle\Entity\chien
             mappedBy: race
     lifecycleCallbacks: {  }

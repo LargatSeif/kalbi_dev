@@ -16,15 +16,14 @@ dataBundle\Entity\chien:
             type: string
             length: '4'
         age:
-            type: string
-            length: 255
+            type: date
         taille:
             type: string
             length: 255
 
     manyToOne:
         maitre:
-            targetEntity: userBundle\ENtity\User
+            targetEntity: userBundle\Entity\User
             inversedBy: chien
         etat:
             targetEntity: dataBundle\Entity\etat

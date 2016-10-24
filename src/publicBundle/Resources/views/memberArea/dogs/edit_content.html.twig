@@ -61,25 +61,13 @@
                 <h5 class="left red-text">Race du chien</h5>
             </div>
             <div class="col s12 m4 l4 offset-l2 input-field hide-on-small-only">
-                {{ form_label(edit_form.race.libelle) }}
+                {{ form_label(edit_form.race) }}
             </div>
             <div class="col s12 m8 l6 input-field">
-                {{ form_widget(edit_form.race.libelle) }}
+                {{ form_widget(edit_form.race) }}
             </div>
-        <div class="col s12 m4 l4 offset-l2 input-field hide-on-small-only">
-            {{ form_label(edit_form.race.type) }}
-        </div>
-        <div class="col s12 m8 l6 input-field">
-            {{ form_widget(edit_form.race.type) }}
-        </div>
-        <div class="col s12 m4 l4 offset-l2 input-field hide-on-small-only">
-            {{ form_label(edit_form.race.info) }}
-        </div>
-        <div class="col s12 m8 l6 input-field">
-            {{ form_widget(edit_form.race.info) }}
-        </div>
 
-        </div>
+
         {{ form_end(edit_form) }}
 
     </div>

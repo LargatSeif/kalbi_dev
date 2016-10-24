@@ -32,7 +32,18 @@ class dogsController extends Controller
             'method' => 'PUT',
         ]);
 
-        $form->add('submit', 'submit', array('label' => 'Update'));
+        $form->add(
+            'submit',
+            'submit',
+            [
+                'label' => 'Mettre à jours',
+                'attr'=>
+                    [
+                        'class'=>'btn ',
+                        'style'=>'width:100%'
+                    ]
+            ]
+        );
 
         return $form;
     }
