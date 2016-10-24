@@ -19,6 +19,8 @@ class photoProfile
      */
     private $file;
 
+    private $user;
+
     public function setFile(UploadedFile $file = null)
     {
         $this->file = $file;
@@ -70,10 +72,12 @@ class photoProfile
         // when displaying uploaded doc/image in the view.
         return 'uploads/user';
     }
+
     public function getAssetPath()
     {
         return 'uploads/user/'.$this->path;
     }
+    
     public function preUpload()
     {
         $this->tempFile = $this->getAbsolutePath();
@@ -117,11 +121,6 @@ class photoProfile
             unlink($file);
         }
     }
-    /**
-     * @var \dataBundle\Entity\photoProfile
-     */
-    private $user;
-
 
     /**
      * Get id
@@ -185,7 +184,7 @@ class photoProfile
      * @param \dataBundle\Entity\photoProfile $user
      * @return photoProfile
      */
-    public function setUser(\dataBundle\Entity\photoProfile $user = null)
+    public function setUser(photoProfile $user = null)
     {
         $this->user = $user;
 
@@ -201,4 +200,5 @@ class photoProfile
     {
         return $this->user;
     }
+
 }

@@ -127,17 +127,17 @@
             </div>
             <div class="row " style="padding-top:0;">
 
-                <div class="col s12 m3 l4 center white z-depth-2 header-1" style="border-right: 0 solid #1e88e5;padding: 0 1% 1% 1%;margin-right:8.2%" >
-                    <h6 class="light-blue-text header center">Photo du profile</h6>
+                <div class="col s12 m3 l4 center white z-depth-1" style="border-right: 0 solid #1e88e5;padding: 0 1% 1% 1%;margin-right:8.2%" >
+
 
                     <div class="col s6 m6 l12 offset-s3 offset-m3 center "  >
 
                         <div class="card" style="border-radius: 100%">
                             <div class="card-image" >
                                 {% set realPath = app.user.photo.AssetPath %}
-                                <img src="{{ asset(realPath) }}"
-                                     class="activator " height="200" width="300"
-                                     style=""/>
+                                <img src="{{ asset('images/dog.jpg') }}"
+                                     class="responsive-img valign profile-image"
+                                     style="border: 0px solid #ffffff;border-radius: 0"/>
                             </div>
                         </div>
                     </div>

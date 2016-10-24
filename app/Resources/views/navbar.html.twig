@@ -1,17 +1,11 @@
 {% block navbar %}
     <header>
-        <nav class="navbar-fixed ">
+        <nav class="navbar-fixed brown  ">
             <!-- Dropdawn menu-->
             <ul id="dropdown1" class="dropdown-content" style="margin-top: 60px;width:20%">
                 <li>
-                    <a href="{{ path('fos_user_profile_show') }}" class="red-text accent-3 small-text">
-                        <i class="material-icons left">person_pin</i>Consulter mon profile
-                    </a>
-                </li>
-                <li class="divider"></li>
-                <li>
-                    <a href="{{ path('fos_user_profile_edit') }}" class="red-text accent-3 small-text">
-                        <i class="material-icons left">settings</i>Paramétres du compte
+                    <a href="{{ path('dog_list') }}" class="red-text accent-3 small-text">
+                        <i class="material-icons left">list</i>Mes chiens
                     </a>
                 </li>
                 <li class="divider"></li>
@@ -22,6 +16,13 @@
                 </li>
                 <li class="divider"></li>
                 <li>
+                    <a href="{{ path('fos_user_profile_edit') }}" class="red-text accent-3 small-text">
+                        <i class="material-icons left">settings</i>Réglage
+                    </a>
+                </li>
+
+                <li class="divider"></li>
+                <li>
                     <a href="{{ path('fos_user_security_logout') }}" class="red-text accent-3 small-text">
                         <i class="material-icons left">settings_power</i>Déconnexion
                     </a>
@@ -29,7 +30,7 @@
             </ul>
             <!-- the main navbar -->
             <nav class="" style="box-shadow: none">
-                <div class="nav-wrapper"  style="color: #e53935;">
+                <div class="nav-wrapper deep-orange "  style="color: #e53935;">
                     <a href="{{ path('membersArea') }}" class="brand-logo  white-text accent-3 hide-on-med-and-down" style="margin-left: 8%">
                         Kalbi.tn
                     </a>
@@ -46,12 +47,18 @@
                             </a>
                         </li>
                     </ul>
+                    {#SIDE NAV#}
                     <ul class="side-nav" id="mobile-demo">
                         <li><a href="" style="color: #e53935;font-size: 26px;font-weight: 700">Kalbi.tn</a></li>
                         <li class="" >
                              <div class="row blue-grey lighten-4" style="padding-bottom: -2% ;">
                                 <div class="col col s4 m4 l4" style="padding-top:4%">
-                                    <img src="{{ asset('images/profile_exp.png') }}"
+                                    {% if app.user.photo.path is defined %}
+                                        {% set img = asset(app.user.photo.AssetPath)  %}
+                                    {% else %}
+                                        {% set img = asset('images/profile_exp.png')  %}
+                                    {% endif %}
+                                    <img src="{{ img }}"
                                          class="circle responsive-img valign profile-image"
                                          style="border: 4px solid #ffffff"
                                     >
@@ -67,6 +74,11 @@
                             <a href="{{ path('fos_user_profile_edit') }}" class=""  >
                                 <i class="material-icons right" style="line-height: 50px;font-size: 20px">settings</i>
                                 Paramétres du compte
+                            </a>
+                        </li>
+                        <li>
+                            <a href="" class=""  >
+                                Mes Chiens
                             </a>
                         </li>
 

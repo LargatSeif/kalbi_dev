@@ -1,3 +1,6 @@
+dog_list:
+    path: /
+    defaults: { _controller: "dataBundle:dogs:listAll" }
 dog_show:
     path:     /{userID}.{dogName}.{dogID}
     defaults: { _controller: "dataBundle:dogs:show" }

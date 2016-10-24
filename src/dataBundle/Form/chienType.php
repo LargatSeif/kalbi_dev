@@ -4,6 +4,7 @@ namespace dataBundle\Form;
 
 use Symfony\Bridge\Doctrine\Form\Type\EntityType;
 use Symfony\Component\Form\AbstractType;
+use Symfony\Component\Form\Extension\Core\Type\BirthdayType;
 use Symfony\Component\Form\Extension\Core\Type\ChoiceType;
 use Symfony\Component\Form\FormBuilderInterface;
 use Symfony\Component\OptionsResolver\OptionsResolver;
@@ -31,7 +32,16 @@ class chienType extends AbstractType
                     'expanded'=>true,
                 ]
             )
-            ->add('age','date')
+            ->add(
+                'age',
+                BirthdayType::class,
+                [
+                    'widget'=> 'single_text',
+                    'attr'=>[
+                        'class'=>'datepicker'
+                    ]
+                ]
+            )
             ->add('taille')
             ->add(
                 'etat',

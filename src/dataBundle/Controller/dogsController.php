@@ -10,6 +10,10 @@ use Symfony\Component\HttpFoundation\Response;
 
 class dogsController extends Controller
 {
+    public function listAllAction(){
+        $dogList = $this->getDoctrine()->getRepository('dataBundle:chien')->findBy(['maitre'=>$this->getUser()]);
+        return $this->render('@public/memberArea/dogs/list.hmtl.twig',['dogs'=>$dogList]);
+    }
     public function showAction($userID ,$dogName ,$dogID){
         if($userID = $this->getUser()->getId()){
             $dog = $this->getDoctrine()->getRepository('dataBundle:chien')->findOneBy(['id'=>$dogID ,'nom'=>$dogName]);
